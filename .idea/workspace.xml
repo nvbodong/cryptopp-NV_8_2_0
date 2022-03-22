@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="distclean" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="cmake-clean" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="native" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="libcryptopp.so" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="codecov" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="dlltest.exe" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="sources" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="coverage" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="libcryptopp.dylib" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="dll" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="nolib" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="autotools-clean" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="check" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="libcryptopp.import.a" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="benchmark" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="default" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="lcov" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="static" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="trim" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="dist" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="remove" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="ubsan" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="bench" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="cryptest.exe" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="valgrind" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="test" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="install" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="no-asm" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="depend" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="dep" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="cryptopp.dll" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="benchmarks" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="html" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="so_warning" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="dynamic" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="libcryptopp.a" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="all" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="deps" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="gcov" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="zip" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="docs" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="convert" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="uninstall" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="lean" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="shared" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="asan" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="install-lib" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="cryptest.import.exe" />
+      <config projectName="cryptopp-CRYPTOPP_8_2_0" targetName="iso" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9182c86-919b-4483-9744-6831c0d7d02a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="MakefileLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="cryptopp-CRYPTOPP_8_2_0" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="cryptopp-CRYPTOPP_8_2_0" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="22eD4qgxyKDudPMYIxi1d3uiexe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Makefile Application.all">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="all" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="all" CONFIG_NAME="all" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="asan" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="asan" CONFIG_NAME="asan" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="autotools-clean" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="autotools-clean" CONFIG_NAME="autotools-clean" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bench" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="bench" CONFIG_NAME="bench" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="benchmark" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="benchmark" CONFIG_NAME="benchmark" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="benchmarks" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="benchmarks" CONFIG_NAME="benchmarks" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="check" CONFIG_NAME="check" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cmake-clean" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="cmake-clean" CONFIG_NAME="cmake-clean" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="codecov" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="codecov" CONFIG_NAME="codecov" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="convert" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="convert" CONFIG_NAME="convert" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coverage" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="coverage" CONFIG_NAME="coverage" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cryptest.exe" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="cryptest.exe" CONFIG_NAME="cryptest.exe" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cryptest.import.exe" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="cryptest.import.exe" CONFIG_NAME="cryptest.import.exe" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cryptopp.dll" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="cryptopp.dll" CONFIG_NAME="cryptopp.dll" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="default" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="default" CONFIG_NAME="default" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dep" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="dep" CONFIG_NAME="dep" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="depend" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="depend" CONFIG_NAME="depend" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deps" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="deps" CONFIG_NAME="deps" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dist" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="dist" CONFIG_NAME="dist" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="distclean" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="distclean" CONFIG_NAME="distclean" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dll" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="dll" CONFIG_NAME="dll" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dlltest.exe" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="dlltest.exe" CONFIG_NAME="dlltest.exe" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="docs" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="docs" CONFIG_NAME="docs" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dynamic" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="dynamic" CONFIG_NAME="dynamic" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gcov" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="gcov" CONFIG_NAME="gcov" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="html" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="html" CONFIG_NAME="html" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install-lib" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="install-lib" CONFIG_NAME="install-lib" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="install" CONFIG_NAME="install" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="iso" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="iso" CONFIG_NAME="iso" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lcov" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="lcov" CONFIG_NAME="lcov" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lean" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="lean" CONFIG_NAME="lean" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libcryptopp.a" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="libcryptopp.a" CONFIG_NAME="libcryptopp.a" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libcryptopp.dylib" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="libcryptopp.dylib" CONFIG_NAME="libcryptopp.dylib" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libcryptopp.import.a" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="libcryptopp.import.a" CONFIG_NAME="libcryptopp.import.a" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libcryptopp.so" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="libcryptopp.so" CONFIG_NAME="libcryptopp.so" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="native" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="native" CONFIG_NAME="native" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="no-asm" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="no-asm" CONFIG_NAME="no-asm" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nolib" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="nolib" CONFIG_NAME="nolib" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="remove" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="remove" CONFIG_NAME="remove" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shared" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="shared" CONFIG_NAME="shared" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="so_warning" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="so_warning" CONFIG_NAME="so_warning" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sources" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="sources" CONFIG_NAME="sources" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="static" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="static" CONFIG_NAME="static" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="test" CONFIG_NAME="test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="trim" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="trim" CONFIG_NAME="trim" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ubsan" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="ubsan" CONFIG_NAME="ubsan" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="uninstall" CONFIG_NAME="uninstall" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="valgrind" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="valgrind" CONFIG_NAME="valgrind" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zip" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cryptopp-CRYPTOPP_8_2_0" TARGET_NAME="zip" CONFIG_NAME="zip" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Makefile Application.all" />
+      <item itemvalue="Makefile Application.asan" />
+      <item itemvalue="Makefile Application.autotools-clean" />
+      <item itemvalue="Makefile Application.bench" />
+      <item itemvalue="Makefile Application.benchmark" />
+      <item itemvalue="Makefile Application.benchmarks" />
+      <item itemvalue="Makefile Application.check" />
+      <item itemvalue="Makefile Application.cmake-clean" />
+      <item itemvalue="Makefile Application.codecov" />
+      <item itemvalue="Makefile Application.convert" />
+      <item itemvalue="Makefile Application.coverage" />
+      <item itemvalue="Makefile Application.default" />
+      <item itemvalue="Makefile Application.dep" />
+      <item itemvalue="Makefile Application.depend" />
+      <item itemvalue="Makefile Application.deps" />
+      <item itemvalue="Makefile Application.dist" />
+      <item itemvalue="Makefile Application.distclean" />
+      <item itemvalue="Makefile Application.docs" />
+      <item itemvalue="Makefile Application.dynamic" />
+      <item itemvalue="Makefile Application.gcov" />
+      <item itemvalue="Makefile Application.html" />
+      <item itemvalue="Makefile Application.install" />
+      <item itemvalue="Makefile Application.install-lib" />
+      <item itemvalue="Makefile Application.iso" />
+      <item itemvalue="Makefile Application.lcov" />
+      <item itemvalue="Makefile Application.lean" />
+      <item itemvalue="Makefile Application.libcryptopp.so" />
+      <item itemvalue="Makefile Application.native" />
+      <item itemvalue="Makefile Application.no-asm" />
+      <item itemvalue="Makefile Application.remove" />
+      <item itemvalue="Makefile Application.so_warning" />
+      <item itemvalue="Makefile Application.sources" />
+      <item itemvalue="Makefile Application.static" />
+      <item itemvalue="Makefile Application.test" />
+      <item itemvalue="Makefile Application.trim" />
+      <item itemvalue="Makefile Application.ubsan" />
+      <item itemvalue="Makefile Application.uninstall" />
+      <item itemvalue="Makefile Application.valgrind" />
+      <item itemvalue="Makefile Application.zip" />
+      <item itemvalue="Makefile Application.cryptest.exe" />
+      <item itemvalue="Makefile Application.cryptest.import.exe" />
+      <item itemvalue="Makefile Application.cryptopp.dll" />
+      <item itemvalue="Makefile Application.dll" />
+      <item itemvalue="Makefile Application.dlltest.exe" />
+      <item itemvalue="Makefile Application.libcryptopp.a" />
+      <item itemvalue="Makefile Application.libcryptopp.dylib" />
+      <item itemvalue="Makefile Application.libcryptopp.import.a" />
+      <item itemvalue="Makefile Application.nolib" />
+      <item itemvalue="Makefile Application.shared" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9182c86-919b-4483-9744-6831c0d7d02a" name="Default Changelist" comment="" />
+      <created>1640188971351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640188971351</updated>
+      <workItem from="1640188972877" duration="1321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
